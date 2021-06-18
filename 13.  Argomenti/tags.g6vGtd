@@ -1,0 +1,3 @@
+main	baaaap.c	/^int main()$/;"	f
+main	somma_argv.c	/^int main(int argc, char *argv[])$/;"	f
+main	argcargv.c	/^int main(int argc, char *argv[])$/;"	f

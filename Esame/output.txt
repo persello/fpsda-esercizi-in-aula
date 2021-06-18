@@ -1,0 +1,53 @@
+DEBUG: Riga letta: Bianca; De Rossi;
+
+DEBUG: Riga letta: 5
+
+DEBUG: Studente letto: Bianca De Rossi 5.000000.
+DEBUG: Riga letta: Luigi Filippo; Della Valle Di Sopra;
+
+DEBUG: Riga letta: 8
+
+DEBUG: Studente letto: Luigi Filippo Della Valle Di Sopra 8.000000.
+DEBUG: Riga letta: Ugo; Vai;
+
+DEBUG: Riga letta: 6
+
+DEBUG: Studente letto: Ugo Vai 6.000000.
+DEBUG: Riga letta: Eva; Torna;
+
+DEBUG: Riga letta: 8
+
+DEBUG: Studente letto: Eva Torna 8.000000.
+DEBUG: Riga letta: Pier Paolo; Da Ligosullo;
+
+DEBUG: Riga letta: 9
+DEBUG: Studente letto: Pier Paolo Da Ligosullo 9.000000.
+Intestazione lavoro di gruppo: ID001 2 compilativo discreto
+
+DEBUG: Confronto Bianca; De Rossi; con Bianca; De Rossi;
+ per 17 caratteri.
+DEBUG: Confronto Bianca; De Rossi; con Ugo; Vai;
+ per 17 caratteri.
+DEBUG: Confronto Luigi Filippo; Della Valle Di Sopra; con Ugo; Vai;
+ per 36 caratteri.
+DEBUG: Confronto Ugo; Vai; con Ugo; Vai;
+ per 9 caratteri.
+Intestazione lavoro di gruppo: ID002 3 sperimentale ottimo
+
+DEBUG: Confronto Bianca; De Rossi; con Eva; Torna;
+ per 17 caratteri.
+DEBUG: Confronto Luigi Filippo; Della Valle Di Sopra; con Eva; Torna;
+ per 36 caratteri.
+DEBUG: Confronto Ugo; Vai; con Eva; Torna;
+ per 9 caratteri.
+DEBUG: Confronto Eva; Torna; con Eva; Torna;
+ per 11 caratteri.
+DEBUG: Confronto Bianca; De Rossi; con Luigi Filippo; Della Valle Di Sopra;
+ per 17 caratteri.
+DEBUG: Confronto Luigi Filippo; Della Valle Di Sopra; con Luigi Filippo; Della Valle Di Sopra;
+ per 36 caratteri.
+DEBUG: Confronto Bianca; De Rossi; con Pier Paolo; Da Ligosullo; per 17 caratteri.
+DEBUG: Confronto Luigi Filippo; Della Valle Di Sopra; con Pier Paolo; Da Ligosullo; per 36 caratteri.
+DEBUG: Confronto Ugo; Vai; con Pier Paolo; Da Ligosullo; per 9 caratteri.
+DEBUG: Confronto Eva; Torna; con Pier Paolo; Da Ligosullo; per 11 caratteri.
+DEBUG: Confronto Pier Paolo; Da Ligosullo; con Pier Paolo; Da Ligosullo; per 25 caratteri.

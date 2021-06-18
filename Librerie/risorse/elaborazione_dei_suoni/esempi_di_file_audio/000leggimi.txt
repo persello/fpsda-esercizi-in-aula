@@ -1,0 +1,9 @@
+
+Questo direttorio contiene esempi di file audio.
+
+Il nome di ciascun file indica la frequenza di campionamento, il numero di bit/campione e il tipo (mono o stereo).
+I file .WAV contengono le informazioni audio in formato non compresso.
+
+Il file con estensione .MP3 e` la versione compressa con la tecnica mpeg audio layer III (compressione con perdita) dell'omonimo file .WAV.
+
+

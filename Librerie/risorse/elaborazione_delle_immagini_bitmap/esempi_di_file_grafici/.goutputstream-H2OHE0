@@ -1,0 +1,10 @@
+
+Questo direttorio contiene esempi di immagini fisse.
+
+I file "Beatrice ..." contengono immagini bitmap a diverse risoluzioni e profondita` di colore (indicate nel nome di ciascun file)
+
+I file "linee" permettono di vedere l'effetto della compressione JPEG su un'immagine bitmap con contorni molto netti. Inoltre si osservi come le figuree geometriche nei file bitmap perdono la loro struttura, essendo semplicemente una serie (nemmeno troppo regolare) di pixel neri su sfondo bianco.
+
+Il file poligoni.dxf e` un semplice esempio di immagine vettoriale. Il file puo` essere letto ed editato con normali editor di file di testi, in quanto contiene la descrizione testuale delle primitive grafiche e dei relativi parametri.
+
+

@@ -1,0 +1,7 @@
+ID001 2 compilativo discreto
+Bianca; De Rossi;
+Ugo; Vai;
+ID002 3 sperimentale ottimo
+Eva; Torna;
+Luigi Filippo; Della Valle Di Sopra;
+Pier Paolo; Da Ligosullo;
